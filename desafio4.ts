@@ -1,0 +1,1 @@
+// desafio (https://github.com/lira1705/mentoria-typescript/blob/main/src/desafios/desafio4.js)
